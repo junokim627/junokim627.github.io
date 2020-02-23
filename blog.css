@@ -1,0 +1,39 @@
+body {
+  background-color: rgb(235, 214, 207);
+}
+
+.nav class {
+  background-color: coral;
+  font-family: "Indie Flower", cursive;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 5rem;
+}
+
+p {
+  margin-left: 0px;
+  font-family: "Boogaloo", cursive;
+}
+
+body {
+  margin-bottom: 0px;
+}
+
+i {
+  font-size: 3rem;
+  padding: 0;
+}
+
+.content {
+  margin-top: 20px;
+  align-self: center;
+}
+
+header {
+  align-items: center;
+  padding-bottom: 2rem;
+  padding-left: 2rem;
+}
